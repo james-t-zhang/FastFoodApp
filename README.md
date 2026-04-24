@@ -23,6 +23,11 @@ a cart, and apply rewards — all through a Kivy-based GUI.
 - Settings panel with login section (in progress)
 - Location selector with map UI (in progress)
 
+## Screenshots
+
+![Menu Screenshot](FastFoodApp-menu.png)
+![Cart Screenshot](FastFoodApp-cart.png)
+
 ## Setup & Installation
 
 1. Clone the repository
